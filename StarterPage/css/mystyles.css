@@ -1,0 +1,18 @@
+h1 {
+	color:blue;
+	font-weight:bold;
+}
+p {
+	color: orange;
+}
+.customgraph {
+	color:  black;
+	font-size:  30px;
+}
+body{
+	background-color:  grey;
+
+}
+a{
+	font-size:  40px;
+}
